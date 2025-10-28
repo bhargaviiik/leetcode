@@ -1,27 +1,17 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
+        //proper sliding window solution with left and right pointers
+        HashMap<Character,Integer> map = new HashMap<>();
         int max=0;
-        int count=0;
-        HashMap<Character, Integer> map = new HashMap<>();
-        for(int i=0;i<s.length();i++){
-            char curr= s.charAt(i);
-            if(!map.containsKey(curr)){
-                count++;
-                map.put(curr,i);
+        int left=0; // if we have left and right- no need of count variable
+        for(int right=0;right<s.length();right++){
+            char curr = s.charAt(right);
+            if(map.containsKey(curr)){
+                left= Math.max(left, map.get(curr)+1);
             }
-            else{
-                max=Math.max(max,count);
-                int idx= map.get(curr);
-                count=i-idx;  // where the repeating element lies 
-                // characters before idx have to be removed from map
-                map = new HashMap<>();
-                for(int j=idx+1;j<=i;j++){
-                    map.put(s.charAt(j),j);
-                }
-                // (map.put(curr, i))if its in the map before idx, it will get removed
-            }
+            map.put(curr,right);
+            max= Math.max(max, right-left+1);
         }
-        max= Math.max(max,count);  //max check is in repeat cond, what if it doesnt invoke
         return max;
     }
 }
