@@ -1,18 +1,27 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
-        int n=gas.length;
-        for(int i=0;i<n;i++){
-            int tank=gas[i]-cost[i];
-            if(tank<0) continue; //cannot be the starting index
-            int j=(i+1)%n;
-            tank+=gas[j];
-            while(tank>=cost[j] && j!=i){
-                tank=tank-cost[j];
-                j=(j+1)%n;
-                tank+=gas[j];
+        int n = gas.length;
+
+        for (int start = 0; start < n; start++) {
+            int tank = 0;
+            int stationsCovered = 0;
+            int i = start;
+
+            // Try to complete a full circle
+            while (stationsCovered < n) {
+                tank += gas[i] - cost[i];
+
+                if (tank < 0)
+                    break; // can't continue from this start
+
+                i = (i + 1) % n;
+                stationsCovered++;
             }
-            if(j==i) return i;
+
+            if (stationsCovered == n && tank >= 0)
+                return start; // success
         }
-        return -1;
+
+        return -1; // no possible start
     }
 }
