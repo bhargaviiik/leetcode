@@ -1,14 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int[] map=new int[30001];
-        for(int i=0;i<nums.length;i++){
-            map[nums[i]]++;
+        int res=nums[0];
+        for(int i=1;i<nums.length;i++){
+            res^=nums[i];
         }
-        for(int i=0;i<map.length;i++){
-            if(map[i]==1){
-                return i;
-            }
-        }
-        return -1;
+        return res;
     }
 }
