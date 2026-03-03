@@ -20,4 +20,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bhargaviiik/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/bhargaviiik/leetcode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 <!---LeetCode Topics End-->
