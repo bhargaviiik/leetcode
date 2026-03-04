@@ -24,4 +24,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/bhargaviiik/leetcode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/bhargaviiik/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 <!---LeetCode Topics End-->
