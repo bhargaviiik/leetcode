@@ -33,4 +33,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/bhargaviiik/leetcode/tree/main/0050-powx-n/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bhargaviiik/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 <!---LeetCode Topics End-->
