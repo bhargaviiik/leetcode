@@ -8,6 +8,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargaviiik/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhargaviiik/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0162-find-peak-element](https://github.com/bhargaviiik/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/bhargaviiik/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bhargaviiik/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -37,9 +38,23 @@ My solutions to LeetCode problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bhargaviiik/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/bhargaviiik/leetcode/tree/main/0198-house-robber/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
