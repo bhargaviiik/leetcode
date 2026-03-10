@@ -13,8 +13,8 @@ class Solution {
                     left=mid+1;   //if smaller then move to right we cant replace a smaller number
                 }
             }
-            tails[right]=num;
-            if(right>=size) size++;
+            tails[left]=num;
+            if(left==size) size++;
         }
         return size;
     }
