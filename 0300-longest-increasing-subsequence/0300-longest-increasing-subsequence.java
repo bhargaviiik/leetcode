@@ -1,15 +1,21 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int[][] dp = new int[nums.length][nums.length+1]; //idx,lastidx
-        for(int[] row : dp) Arrays.fill(row, -1);
-        return helper(nums,0,-1,dp);
-    }
-    int helper(int[] nums,int i,int lastidx,int[][] dp){
-        if(i>=nums.length) return 0;
-        if(dp[i][lastidx+1]!=-1) return dp[i][lastidx+1];
-        int take=0;
-        if(lastidx==-1 || nums[i]>nums[lastidx]) take= helper(nums,i+1,i,dp)+1;
-        int skip= helper(nums,i+1,lastidx,dp);
-        return dp[i][lastidx+1]=Math.max(take,skip);
+        int[] tails= new int[nums.length];
+        int size=0;
+        for(int num:nums){
+            int left=0,right=size;
+            while(left<right){
+                int mid=left+(right-left)/2;
+                if(tails[mid]>=num){
+                    right=mid;    //if greater then go to left and check if there is a num smaller than this and greater than num
+                }
+                else{
+                    left=mid+1;   //if smaller then move to right we cant replace a smaller number
+                }
+            }
+            tails[right]=num;
+            if(right>=size) size++;
+        }
+        return size;
     }
 }
