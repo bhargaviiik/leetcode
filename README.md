@@ -13,6 +13,7 @@ My solutions to LeetCode problems
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0162-find-peak-element](https://github.com/bhargaviiik/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/bhargaviiik/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0221-maximal-square](https://github.com/bhargaviiik/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/bhargaviiik/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bhargaviiik/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -56,6 +57,7 @@ My solutions to LeetCode problems
 | [0120-triangle](https://github.com/bhargaviiik/leetcode/tree/main/0120-triangle/) | Medium |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/bhargaviiik/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0221-maximal-square](https://github.com/bhargaviiik/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/bhargaviiik/leetcode/tree/main/0322-coin-change/) | Medium |
 ## Hash Table
@@ -78,6 +80,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/bhargaviiik/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0221-maximal-square](https://github.com/bhargaviiik/leetcode/tree/main/0221-maximal-square/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
