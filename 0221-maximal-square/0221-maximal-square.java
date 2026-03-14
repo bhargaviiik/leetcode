@@ -1,24 +1,21 @@
 class Solution {
-    int max=0;
     public int maximalSquare(char[][] matrix) {
         int[][] dp = new int[matrix.length][matrix[0].length];
-        for(int[] row:dp) Arrays.fill(row,-1);
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[0].length;j++){
-                if(matrix[i][j]=='1') helper(matrix,i,j,dp);
+        int max=0;
+        for(int i=1;i<matrix.length;i++){
+            for(int j=1;j<matrix[0].length;j++){
+                if(matrix[i][j]=='1'){
+                    dp[i][j]=1+ Math.min(dp[i-1][j-1],Math.min(dp[i-1][j],dp[i][j-1]));
+                    max=Math.max(max,dp[i][j]);
+                }
+
             }
         }
+        if(max==0){
+            for(int i=0;i<matrix.length;i++) if(matrix[i][0]=='1') return 1;
+            for(int i=0;i<matrix[0].length;i++) if(matrix[0][i]=='1') return 1;
+            return 0;
+        }
         return max*max;
-    }
-    int helper(char[][] matrix,int i, int j,int[][] dp){
-        if(i>=matrix.length || j>=matrix[0].length) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(matrix[i][j]!='1') return 0;
-        int a=helper(matrix,i,j+1,dp);
-        int b=helper(matrix,i+1,j,dp);
-        int c=helper(matrix,i+1,j+1,dp);
-        int ans=1+Math.min(Math.min(a,b),c);  //bc if he is 1, he atleast have to return his 1
-        max=Math.max(max,ans);
-        return dp[i][j]= ans;
     }
 }
