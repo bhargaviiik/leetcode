@@ -77,6 +77,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0322-coin-change](https://github.com/bhargaviiik/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,18 +88,25 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
