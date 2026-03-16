@@ -23,31 +23,23 @@ class Node {
 
 class Solution {
     public Node connect(Node root) {
-        if(root==null) return null;
-        Node node = root;
-
-        if(node.left!=null && node.left.next==null){
-            if(root.right!=null){root.left.next=root.right; connect(node.next);}
-            else{
-                node=node.next;
-                while(node!=null){
-                    if(node.left!=null){root.left.next=node.left; connect(node); break;}
-                    if(node.right!=null){root.left.next=node.right; connect(node); break;}
-                    node=node.next;
+        Node curr=root;
+        while(curr!=null){
+            Node p1=new Node(0);
+            Node dummy=p1;
+            while(curr!=null){
+                if(curr.left!=null){
+                    p1.next=curr.left;
+                    p1=p1.next;
                 }
+                if(curr.right!=null){
+                    p1.next=curr.right;
+                    p1=p1.next;
+                }
+                curr=curr.next;
             }
-
-        } 
-        if(root.right!=null && root.right.next==null){
-            node=root.next;
-            while(node!=null){
-                if(node.left!=null){root.right.next=node.left; connect(node); break;}
-                if(node.right!=null){root.right.next=node.right; connect(node); break;}
-                node=node.next;
-            }
+            curr=dummy.next;  //change the level
         }
-        connect(root.left);
-        connect(root.right);
         return root;
     }
 }
