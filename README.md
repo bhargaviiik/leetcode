@@ -75,6 +75,7 @@ My solutions to LeetCode problems
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0322-coin-change](https://github.com/bhargaviiik/leetcode/tree/main/0322-coin-change/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -85,12 +86,19 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 <!---LeetCode Topics End-->
