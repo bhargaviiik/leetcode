@@ -96,12 +96,14 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargaviiik/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargaviiik/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
@@ -109,11 +111,13 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargaviiik/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargaviiik/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -123,4 +127,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargaviiik/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
