@@ -9,6 +9,7 @@ My solutions to LeetCode problems
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargaviiik/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhargaviiik/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0063-unique-paths-ii](https://github.com/bhargaviiik/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/bhargaviiik/leetcode/tree/main/0120-triangle/) | Medium |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0162-find-peak-element](https://github.com/bhargaviiik/leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -65,6 +66,7 @@ My solutions to LeetCode problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 ## Trie
@@ -92,6 +94,7 @@ My solutions to LeetCode problems
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -104,6 +107,7 @@ My solutions to LeetCode problems
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -115,4 +119,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
