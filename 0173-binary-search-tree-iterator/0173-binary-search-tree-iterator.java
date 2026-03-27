@@ -14,25 +14,44 @@
  * }
  */
 class BSTIterator {
-    Stack<TreeNode> st= new Stack<>();
+    TreeNode curr;
     public BSTIterator(TreeNode root) {
-        pushAllLeft(root);
-    }
-    private void pushAllLeft(TreeNode node){
-        while(node!=null){
-            st.push(node);
-            node=node.left;
-        }
+        curr=root;
     }
     
     public int next() {
-        TreeNode curr=st.pop();
-        if(curr.right!=null) pushAllLeft(curr.right);
-        return curr.val;
+        int val=-1;
+        while(curr!=null){
+            if(curr.left==null){
+                val=curr.val;   // means this is the node with no left further, so curr val acc to inorder trav after left
+                curr=curr.right;// after left being null and curr being done we move towards right..
+                break;
+            }
+            else{  //else if left is not null we assign left node to pred
+                TreeNode pred= curr.left;
+                //lets find inorder predcessor 
+                while(pred.right!=null && pred.right!=curr){
+                    pred=pred.right;
+                }
+                if(pred.right==null){
+                    //create thread
+                    pred.right=curr;  //we assign it to curr and not pred, bc if we're at right, pred will already be done
+                    curr=curr.left;
+                }
+                else{
+                    //remove thread
+                    pred.right=null;
+                    val=curr.val;
+                    curr=curr.right;
+                    break;    //else the loop will continue
+                }
+            }
+        }
+        return val;
     }
     
     public boolean hasNext() {
-        return !st.isEmpty();   //bc out pointer represents the top of our stack
+        return curr!=null;
     }
 }
 
