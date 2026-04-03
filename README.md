@@ -58,6 +58,7 @@ My solutions to LeetCode problems
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [1763-longest-nice-substring](https://github.com/bhargaviiik/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bhargaviiik/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ My solutions to LeetCode problems
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1763-longest-nice-substring](https://github.com/bhargaviiik/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ My solutions to LeetCode problems
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhargaviiik/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1763-longest-nice-substring](https://github.com/bhargaviiik/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,4 +188,5 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 <!---LeetCode Topics End-->
