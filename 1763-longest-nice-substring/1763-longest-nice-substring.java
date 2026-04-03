@@ -1,28 +1,15 @@
 class Solution {
     public String longestNiceSubstring(String s) {
-        String ans="";
+        if(s.length()<=1) return "";  // single letter str can never be valid
+        HashSet<Character> set= new HashSet<>();
+        for(char c: s.toCharArray()) set.add(c);
         for(int i=0;i<s.length();i++){
-            for(int j=i;j<s.length();j++){
-                String newS= s.substring(i,j+1);
-                if(isNice(newS)){
-                    if(newS.length()>ans.length()){
-                        ans=newS;
-                    }
-                }
-            }
+            char curr= s.charAt(i);
+            if(set.contains(Character.toUpperCase(curr)) && set.contains(Character.toLowerCase(curr))) continue;
+            String left= longestNiceSubstring(s.substring(0,i));
+            String right=longestNiceSubstring(s.substring(i+1,s.length()));
+            return left.length()>=right.length()?left:right;
         }
-        return ans;
-    }
-    boolean isNice(String s){
-        HashSet<Character> set = new HashSet<>();
-        for(char c:s.toCharArray()){
-            set.add(c);
-        }
-        for(int i=0;i<s.length();i++){
-            char curr=s.charAt(i);
-            if(!set.contains(Character.toUpperCase(curr))) return false;
-            if(!set.contains(Character.toLowerCase(curr))) return false;
-        }
-        return true;
+        return s;  // whole string/substring is nice
     }
 }
