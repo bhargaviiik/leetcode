@@ -45,6 +45,7 @@ My solutions to LeetCode problems
 | [0012-integer-to-roman](https://github.com/bhargaviiik/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/bhargaviiik/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/bhargaviiik/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +193,12 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
