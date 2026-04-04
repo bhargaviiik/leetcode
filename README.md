@@ -46,6 +46,7 @@ My solutions to LeetCode problems
 | [0050-powx-n](https://github.com/bhargaviiik/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/bhargaviiik/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0292-nim-game](https://github.com/bhargaviiik/leetcode/tree/main/0292-nim-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +202,12 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/bhargaviiik/leetcode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/bhargaviiik/leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
