@@ -57,6 +57,7 @@ My solutions to LeetCode problems
 | [0012-integer-to-roman](https://github.com/bhargaviiik/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bhargaviiik/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0072-edit-distance](https://github.com/bhargaviiik/leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/bhargaviiik/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0097-interleaving-string](https://github.com/bhargaviiik/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -80,6 +81,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/bhargaviiik/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bhargaviiik/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/bhargaviiik/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -182,6 +184,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bhargaviiik/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/bhargaviiik/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhargaviiik/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1763-longest-nice-substring](https://github.com/bhargaviiik/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
