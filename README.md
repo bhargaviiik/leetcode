@@ -10,6 +10,7 @@ My solutions to LeetCode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhargaviiik/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0063-unique-paths-ii](https://github.com/bhargaviiik/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/bhargaviiik/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/bhargaviiik/leetcode/tree/main/0120-triangle/) | Medium |
 | [0135-candy](https://github.com/bhargaviiik/leetcode/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
@@ -70,6 +71,7 @@ My solutions to LeetCode problems
 | [0063-unique-paths-ii](https://github.com/bhargaviiik/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0072-edit-distance](https://github.com/bhargaviiik/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/bhargaviiik/leetcode/tree/main/0097-interleaving-string/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/bhargaviiik/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/bhargaviiik/leetcode/tree/main/0120-triangle/) | Medium |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/bhargaviiik/leetcode/tree/main/0198-house-robber/) | Medium |
