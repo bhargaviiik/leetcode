@@ -20,6 +20,7 @@ My solutions to LeetCode problems
 | [0221-maximal-square](https://github.com/bhargaviiik/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0283-move-zeroes](https://github.com/bhargaviiik/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/bhargaviiik/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/bhargaviiik/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bhargaviiik/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -177,6 +178,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bhargaviiik/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/bhargaviiik/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,4 +228,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/bhargaviiik/leetcode/tree/main/0283-move-zeroes/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/bhargaviiik/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
