@@ -82,6 +82,7 @@ My solutions to LeetCode problems
 | [0097-interleaving-string](https://github.com/bhargaviiik/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/bhargaviiik/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/bhargaviiik/leetcode/tree/main/0120-triangle/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bhargaviiik/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/bhargaviiik/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/bhargaviiik/leetcode/tree/main/0221-maximal-square/) | Medium |
@@ -135,6 +136,7 @@ My solutions to LeetCode problems
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargaviiik/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bhargaviiik/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaviiik/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/bhargaviiik/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/bhargaviiik/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -146,6 +148,7 @@ My solutions to LeetCode problems
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargaviiik/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bhargaviiik/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaviiik/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/bhargaviiik/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhargaviiik/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -159,6 +162,7 @@ My solutions to LeetCode problems
 | [0110-balanced-binary-tree](https://github.com/bhargaviiik/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargaviiik/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/bhargaviiik/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaviiik/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/bhargaviiik/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/bhargaviiik/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
