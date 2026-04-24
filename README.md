@@ -70,6 +70,7 @@ My solutions to LeetCode problems
 | [0097-interleaving-string](https://github.com/bhargaviiik/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0127-word-ladder](https://github.com/bhargaviiik/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0224-basic-calculator](https://github.com/bhargaviiik/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [1763-longest-nice-substring](https://github.com/bhargaviiik/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
@@ -98,6 +99,7 @@ My solutions to LeetCode problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/bhargaviiik/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/bhargaviiik/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -108,6 +110,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +201,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bhargaviiik/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bhargaviiik/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
