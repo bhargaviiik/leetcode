@@ -71,6 +71,7 @@ My solutions to LeetCode problems
 | [0127-word-ladder](https://github.com/bhargaviiik/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bhargaviiik/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0224-basic-calculator](https://github.com/bhargaviiik/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [1763-longest-nice-substring](https://github.com/bhargaviiik/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
@@ -111,6 +112,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bhargaviiik/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ My solutions to LeetCode problems
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhargaviiik/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhargaviiik/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/bhargaviiik/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bhargaviiik/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhargaviiik/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhargaviiik/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
@@ -202,6 +205,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bhargaviiik/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bhargaviiik/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bhargaviiik/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
