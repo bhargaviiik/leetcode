@@ -74,6 +74,7 @@ My solutions to LeetCode problems
 | [0211-design-add-and-search-words-data-structure](https://github.com/bhargaviiik/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0224-basic-calculator](https://github.com/bhargaviiik/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0796-rotate-string](https://github.com/bhargaviiik/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1763-longest-nice-substring](https://github.com/bhargaviiik/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bhargaviiik/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -270,4 +271,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/bhargaviiik/leetcode/tree/main/0052-n-queens-ii/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/bhargaviiik/leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
