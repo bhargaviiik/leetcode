@@ -266,4 +266,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/bhargaviiik/leetcode/tree/main/0175-combine-two-tables/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/bhargaviiik/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
