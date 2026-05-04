@@ -8,6 +8,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhargaviiik/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhargaviiik/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/bhargaviiik/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/bhargaviiik/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/bhargaviiik/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -49,6 +50,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/bhargaviiik/leetcode/tree/main/0012-integer-to-roman/) | Medium |
+| [0048-rotate-image](https://github.com/bhargaviiik/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/bhargaviiik/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/bhargaviiik/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0224-basic-calculator](https://github.com/bhargaviiik/leetcode/tree/main/0224-basic-calculator/) | Hard |
@@ -133,6 +135,7 @@ My solutions to LeetCode problems
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/bhargaviiik/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/bhargaviiik/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0221-maximal-square](https://github.com/bhargaviiik/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/bhargaviiik/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
