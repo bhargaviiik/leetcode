@@ -191,6 +191,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhargaviiik/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhargaviiik/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/bhargaviiik/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhargaviiik/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/bhargaviiik/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Binary Search Tree
@@ -267,6 +268,7 @@ My solutions to LeetCode problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/bhargaviiik/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/bhargaviiik/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Prefix Sum
