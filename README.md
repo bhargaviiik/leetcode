@@ -60,6 +60,7 @@ My solutions to LeetCode problems
 | [0224-basic-calculator](https://github.com/bhargaviiik/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/bhargaviiik/leetcode/tree/main/0292-nim-game/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/bhargaviiik/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ My solutions to LeetCode problems
 | [0224-basic-calculator](https://github.com/bhargaviiik/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0433-minimum-genetic-mutation](https://github.com/bhargaviiik/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0796-rotate-string](https://github.com/bhargaviiik/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/bhargaviiik/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1763-longest-nice-substring](https://github.com/bhargaviiik/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/bhargaviiik/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bhargaviiik/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
