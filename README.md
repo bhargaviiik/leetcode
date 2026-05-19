@@ -34,6 +34,7 @@ My solutions to LeetCode problems
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhargaviiik/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhargaviiik/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhargaviiik/leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ My solutions to LeetCode problems
 | [0162-find-peak-element](https://github.com/bhargaviiik/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ My solutions to LeetCode problems
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1763-longest-nice-substring](https://github.com/bhargaviiik/leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +288,7 @@ My solutions to LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/bhargaviiik/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhargaviiik/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
