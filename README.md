@@ -27,6 +27,7 @@ My solutions to LeetCode problems
 | [0322-coin-change](https://github.com/bhargaviiik/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bhargaviiik/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhargaviiik/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/bhargaviiik/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -47,6 +48,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhargaviiik/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bhargaviiik/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +237,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/bhargaviiik/leetcode/tree/main/0135-candy/) | Hard |
+| [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +253,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/bhargaviiik/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhargaviiik/leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 ## Counting
