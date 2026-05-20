@@ -3,17 +3,11 @@ class Solution {
         HashSet<Integer> set1= new HashSet<>();
         HashSet<Integer> set2= new HashSet<>();
         int[] ans= new int[A.length];
+        int[] freq= new int[A.length+1];
         int count=0;
         for(int i=0;i<A.length;i++){
-            int a=A[i];
-            int b=B[i];
-            set1.add(a);
-            set2.add(b);
-            if(a==b) count++;
-            else{
-                if(set2.contains(a)) count++;
-                if(set1.contains(b)) count++;
-            }
+            if(++freq[A[i]]==2)count++;
+            if(++freq[B[i]]==2)count++;
             ans[i]=count;
         }
         return ans;
