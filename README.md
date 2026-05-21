@@ -36,6 +36,7 @@ My solutions to LeetCode problems
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhargaviiik/leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhargaviiik/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bhargaviiik/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ My solutions to LeetCode problems
 | [1768-merge-strings-alternately](https://github.com/bhargaviiik/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bhargaviiik/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bhargaviiik/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,12 +132,14 @@ My solutions to LeetCode problems
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhargaviiik/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bhargaviiik/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bhargaviiik/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bhargaviiik/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
