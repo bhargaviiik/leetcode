@@ -16,6 +16,7 @@ My solutions to LeetCode problems
 | [0120-triangle](https://github.com/bhargaviiik/leetcode/tree/main/0120-triangle/) | Medium |
 | [0135-candy](https://github.com/bhargaviiik/leetcode/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/bhargaviiik/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhargaviiik/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/bhargaviiik/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/bhargaviiik/leetcode/tree/main/0198-house-robber/) | Medium |
@@ -67,6 +68,7 @@ My solutions to LeetCode problems
 | [0048-rotate-image](https://github.com/bhargaviiik/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/bhargaviiik/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/bhargaviiik/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/bhargaviiik/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/bhargaviiik/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0224-basic-calculator](https://github.com/bhargaviiik/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
@@ -125,6 +127,7 @@ My solutions to LeetCode problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhargaviiik/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/bhargaviiik/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/bhargaviiik/leetcode/tree/main/0139-word-break/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/bhargaviiik/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/bhargaviiik/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -324,4 +327,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhargaviiik/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/bhargaviiik/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 <!---LeetCode Topics End-->
