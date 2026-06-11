@@ -53,6 +53,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhargaviiik/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/bhargaviiik/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/bhargaviiik/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
 ## Bit Manipulation
@@ -243,6 +244,7 @@ My solutions to LeetCode problems
 | [0173-binary-search-tree-iterator](https://github.com/bhargaviiik/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/bhargaviiik/leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bhargaviiik/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/bhargaviiik/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/bhargaviiik/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/bhargaviiik/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/bhargaviiik/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/bhargaviiik/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
@@ -299,6 +302,7 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/bhargaviiik/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/bhargaviiik/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/bhargaviiik/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/bhargaviiik/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhargaviiik/leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -331,4 +335,8 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/bhargaviiik/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/bhargaviiik/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
