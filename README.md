@@ -39,6 +39,7 @@ My solutions to LeetCode problems
 | [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhargaviiik/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bhargaviiik/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/bhargaviiik/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ My solutions to LeetCode problems
 | [0300-longest-increasing-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhargaviiik/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/bhargaviiik/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ My solutions to LeetCode problems
 | [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhargaviiik/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bhargaviiik/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/bhargaviiik/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,4 +349,12 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bhargaviiik/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/bhargaviiik/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/bhargaviiik/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
