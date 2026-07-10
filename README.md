@@ -31,6 +31,7 @@ My solutions to LeetCode problems
 | [0435-non-overlapping-intervals](https://github.com/bhargaviiik/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0605-can-place-flowers](https://github.com/bhargaviiik/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhargaviiik/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/bhargaviiik/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhargaviiik/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -260,6 +261,7 @@ My solutions to LeetCode problems
 | [0135-candy](https://github.com/bhargaviiik/leetcode/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/bhargaviiik/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
+| [0605-can-place-flowers](https://github.com/bhargaviiik/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
