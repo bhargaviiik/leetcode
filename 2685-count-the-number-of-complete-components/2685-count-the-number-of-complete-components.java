@@ -2,9 +2,9 @@ class Solution {
     public int countCompleteComponents(int n, int[][] edges) {
         //converting into adjacency list
         int ans=0;
-        HashMap<Integer, ArrayList<Integer>> graph = new HashMap<>();
+        ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
         for(int i=0;i<n;i++){
-            graph.put(i, new ArrayList<>());
+            graph.add(new ArrayList<>());
             graph.get(i).add(i);
         }
         for(int i=0;i<edges.length;i++){
@@ -14,8 +14,8 @@ class Solution {
             graph.get(v).add(u);
         }
         HashMap< ArrayList<Integer> ,Integer> map = new HashMap<>();
-        for(int key:graph.keySet()){
-            ArrayList<Integer> list = graph.get(key);
+        for(int i=0;i<graph.size();i++){
+            ArrayList<Integer> list = graph.get(i);
             Collections.sort(list);
             map.put(list,map.getOrDefault(list,0)+1);
         }
