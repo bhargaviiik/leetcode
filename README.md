@@ -89,6 +89,7 @@ My solutions to LeetCode problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/bhargaviiik/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/bhargaviiik/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bhargaviiik/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0072-edit-distance](https://github.com/bhargaviiik/leetcode/tree/main/0072-edit-distance/) | Medium |
