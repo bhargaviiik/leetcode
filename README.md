@@ -369,4 +369,8 @@ My solutions to LeetCode problems
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/bhargaviiik/leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhargaviiik/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/bhargaviiik/leetcode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
