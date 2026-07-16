@@ -42,6 +42,7 @@ My solutions to LeetCode problems
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhargaviiik/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bhargaviiik/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bhargaviiik/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhargaviiik/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ My solutions to LeetCode problems
 | [1071-greatest-common-divisor-of-strings](https://github.com/bhargaviiik/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhargaviiik/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhargaviiik/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhargaviiik/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +291,7 @@ My solutions to LeetCode problems
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/bhargaviiik/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhargaviiik/leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhargaviiik/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,11 +301,13 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhargaviiik/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhargaviiik/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhargaviiik/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +326,7 @@ My solutions to LeetCode problems
 | [1768-merge-strings-alternately](https://github.com/bhargaviiik/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhargaviiik/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhargaviiik/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
