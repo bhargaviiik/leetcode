@@ -37,6 +37,7 @@ My solutions to LeetCode problems
 | [1331-rank-transform-of-an-array](https://github.com/bhargaviiik/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhargaviiik/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhargaviiik/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bhargaviiik/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhargaviiik/leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2540-minimum-common-value](https://github.com/bhargaviiik/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bhargaviiik/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -80,6 +81,7 @@ My solutions to LeetCode problems
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/bhargaviiik/leetcode/tree/main/0292-nim-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bhargaviiik/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bhargaviiik/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhargaviiik/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhargaviiik/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhargaviiik/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -306,6 +308,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bhargaviiik/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhargaviiik/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhargaviiik/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Brainteaser
