@@ -34,6 +34,7 @@ My solutions to LeetCode problems
 | [0605-can-place-flowers](https://github.com/bhargaviiik/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhargaviiik/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/bhargaviiik/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1260-shift-2d-grid](https://github.com/bhargaviiik/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/bhargaviiik/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhargaviiik/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhargaviiik/leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -183,6 +184,7 @@ My solutions to LeetCode problems
 | [0063-unique-paths-ii](https://github.com/bhargaviiik/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0221-maximal-square](https://github.com/bhargaviiik/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/bhargaviiik/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1260-shift-2d-grid](https://github.com/bhargaviiik/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1861-rotating-the-box](https://github.com/bhargaviiik/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -303,6 +305,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
+| [1260-shift-2d-grid](https://github.com/bhargaviiik/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhargaviiik/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
