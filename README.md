@@ -114,6 +114,7 @@ My solutions to LeetCode problems
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bhargaviiik/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bhargaviiik/leetcode/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bhargaviiik/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/bhargaviiik/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,4 +388,5 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/bhargaviiik/leetcode/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/bhargaviiik/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
