@@ -32,6 +32,7 @@ My solutions to LeetCode problems
 | [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0605-can-place-flowers](https://github.com/bhargaviiik/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhargaviiik/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhargaviiik/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/bhargaviiik/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1260-shift-2d-grid](https://github.com/bhargaviiik/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -81,6 +82,7 @@ My solutions to LeetCode problems
 | [0224-basic-calculator](https://github.com/bhargaviiik/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/bhargaviiik/leetcode/tree/main/0292-nim-game/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhargaviiik/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bhargaviiik/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhargaviiik/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargaviiik/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -295,6 +297,7 @@ My solutions to LeetCode problems
 | [0435-non-overlapping-intervals](https://github.com/bhargaviiik/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0502-ipo](https://github.com/bhargaviiik/leetcode/tree/main/0502-ipo/) | Hard |
 | [0594-longest-harmonious-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhargaviiik/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/bhargaviiik/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bhargaviiik/leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargaviiik/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
