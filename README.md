@@ -34,6 +34,7 @@ My solutions to LeetCode problems
 | [0605-can-place-flowers](https://github.com/bhargaviiik/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargaviiik/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bhargaviiik/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0877-stone-game](https://github.com/bhargaviiik/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/bhargaviiik/leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1260-shift-2d-grid](https://github.com/bhargaviiik/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/bhargaviiik/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -85,6 +86,7 @@ My solutions to LeetCode problems
 | [0258-add-digits](https://github.com/bhargaviiik/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/bhargaviiik/leetcode/tree/main/0292-nim-game/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhargaviiik/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/bhargaviiik/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bhargaviiik/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhargaviiik/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargaviiik/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -138,6 +140,7 @@ My solutions to LeetCode problems
 | [0300-longest-increasing-subsequence](https://github.com/bhargaviiik/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/bhargaviiik/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/bhargaviiik/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0877-stone-game](https://github.com/bhargaviiik/leetcode/tree/main/0877-stone-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +336,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/bhargaviiik/leetcode/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/bhargaviiik/leetcode/tree/main/0877-stone-game/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
