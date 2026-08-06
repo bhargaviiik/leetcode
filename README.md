@@ -89,6 +89,7 @@ My solutions to LeetCode problems
 | [0877-stone-game](https://github.com/bhargaviiik/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bhargaviiik/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bhargaviiik/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bhargaviiik/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bhargaviiik/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhargaviiik/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/bhargaviiik/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -404,6 +405,7 @@ My solutions to LeetCode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/bhargaviiik/leetcode/tree/main/1291-sequential-digits/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bhargaviiik/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/bhargaviiik/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
