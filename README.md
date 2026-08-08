@@ -359,6 +359,7 @@ My solutions to LeetCode problems
 | [0175-combine-two-tables](https://github.com/bhargaviiik/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/bhargaviiik/leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/bhargaviiik/leetcode/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/bhargaviiik/leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/bhargaviiik/leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/bhargaviiik/leetcode/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/bhargaviiik/leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
